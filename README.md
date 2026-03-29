@@ -223,15 +223,3 @@ This project demonstrates how SQL can be used to:
 * Solve real-world business problems
 * Generate actionable insights
 
----
-
-## 📬 Contact
-
-If you like this project or want to collaborate:
-
-* Connect with me on LinkedIn
-* Explore more projects on my GitHub
-
----
-
-⭐ Don’t forget to star this repository if you found it useful!
